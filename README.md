@@ -2,10 +2,10 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_unbox2). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## 🚀 Live Demo
+## 🚀 Links
 
-- **Live Site URL:** [https://d13hn.github.io/qr-code-component/](https://d13hn.github.io/qr-code-component/)
-- **Solution URL:** [Add your Frontend Mentor solution URL here]
+[![Live Site](https://img.shields.io/badge/🚀_Live_Site-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://d13hn.github.io/qr-code-component/)
+[![Frontend Mentor Solution](https://img.shields.io/badge/Frontend_Mentor-Solution-3b82f6?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/solutions/qr-code-component-using-flexbox-and-css-variables-6efLjew-t_)
 
 ## 📸 Screenshot
 
